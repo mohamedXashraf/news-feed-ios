@@ -1,5 +1,3 @@
-# news-feed-ios
-
 # News Feed
 
 - Simple iOS App for displaying News.
