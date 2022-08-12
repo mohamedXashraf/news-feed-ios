@@ -2,7 +2,7 @@
 
 - Simple iOS App for displaying News.
 
-![](https://github.com/mohamedXashraf/news-feed-ios/blob/master/banner.png?raw=true)
+![](https://github.com/mohamedXashraf/news-feed-ios/blob/main/banner.png?raw=true)
 
 - Topics:
   * Modularization.
