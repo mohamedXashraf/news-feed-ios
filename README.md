@@ -18,5 +18,4 @@
   * Data Layer:
     * Repository Implementation.
     * Models.
-    * APIs: Retrofit.
-  * APIs: URL Session.
+    * APIs: URL Session.
