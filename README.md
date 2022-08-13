@@ -5,8 +5,7 @@
 ![](https://github.com/mohamedXashraf/news-feed-ios/blob/main/banner.png?raw=true)
 
 - Topics:
-  * Modularization.
-  * Clean Architecture: 3 Modules : (Presentation, Domain, Data) Layers.
+  * Clean Architecture: 3 Layers : (Presentation, Domain, Data) Layers.
   * Presentation Layer:
     * SwiftUI.
     * MVVM Presentation Architecture Pattern.
