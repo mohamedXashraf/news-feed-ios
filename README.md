@@ -8,7 +8,7 @@
   * Clean Architecture: 3 Layers : (Presentation, Domain, Data) Layers.
   * Presentation Layer:
     * SwiftUI.
-    * Simulatin MVVM Presentation Architecture Pattern.
+    * Simulating MVVM Presentation Architecture Pattern.
   * Domain Layer:
     * UseCases.
     * Repository Interfaces.
